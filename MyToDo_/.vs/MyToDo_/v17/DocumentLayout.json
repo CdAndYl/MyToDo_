@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\viewmodels\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\viewmodels\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\common\\models\\taskbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\common\\models\\taskbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\views\\indexview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\views\\indexview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\extensions\\prismmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\extensions\\prismmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\common\\models\\menubar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\common\\models\\menubar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\viewmodels\\memoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\viewmodels\\memoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\viewmodels\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\viewmodels\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\views\\todoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\views\\todoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\views\\memoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\views\\memoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\views\\memoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\views\\memoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\SourceServer\\ab2358ccce21eeb65a2ecd74efdb911b63acd2b9894de7136647359b28b88885\\PrismApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\mytodo_.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\mytodo_.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|d:\\study\\developer\\code\\c#_new\\mytodo\\mytodo_\\mytodo_\\mytodo_\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD29C81-FAD7-41F0-850D-7E3EB7BC1867}|MyToDo_\\MyToDo_.csproj|solutionrelative:mytodo_\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskBar.cs",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Common\\Models\\TaskBar.cs",
+              "RelativeDocumentMoniker": "MyToDo_\\Common\\Models\\TaskBar.cs",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Common\\Models\\TaskBar.cs",
+              "RelativeToolTip": "MyToDo_\\Common\\Models\\TaskBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:58:29.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MyToDo_\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "MyToDo_\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:58:03.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemoViewModel.cs",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\ViewModels\\MemoViewModel.cs",
+              "RelativeDocumentMoniker": "MyToDo_\\ViewModels\\MemoViewModel.cs",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\ViewModels\\MemoViewModel.cs",
+              "RelativeToolTip": "MyToDo_\\ViewModels\\MemoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:26:04.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexViewModel.cs",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\ViewModels\\IndexViewModel.cs",
+              "RelativeDocumentMoniker": "MyToDo_\\ViewModels\\IndexViewModel.cs",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\ViewModels\\IndexViewModel.cs",
+              "RelativeToolTip": "MyToDo_\\ViewModels\\IndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:18:08.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuBar.cs",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Common\\Models\\MenuBar.cs",
+              "RelativeDocumentMoniker": "MyToDo_\\Common\\Models\\MenuBar.cs",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Common\\Models\\MenuBar.cs",
+              "RelativeToolTip": "MyToDo_\\Common\\Models\\MenuBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:39:41.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrismManager.cs",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Extensions\\PrismManager.cs",
+              "RelativeDocumentMoniker": "MyToDo_\\Extensions\\PrismManager.cs",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Extensions\\PrismManager.cs",
+              "RelativeToolTip": "MyToDo_\\Extensions\\PrismManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:28:01.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndexView.xaml",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\IndexView.xaml",
+              "RelativeDocumentMoniker": "MyToDo_\\Views\\IndexView.xaml",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\IndexView.xaml",
+              "RelativeToolTip": "MyToDo_\\Views\\IndexView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T15:04:47.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MyToDo_\\App.xaml.cs",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\App.xaml.cs",
+              "RelativeToolTip": "MyToDo_\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:32:15.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "MyToDo_\\Views\\MainView.xaml",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\MainView.xaml",
+              "RelativeToolTip": "MyToDo_\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T15:50:25.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "MyToDo_\\Views\\MainView.xaml.cs",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "MyToDo_\\Views\\MainView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:55:54.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MyToDo_\\MainWindow.xaml",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\MainWindow.xaml",
+              "RelativeToolTip": "MyToDo_\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-09T14:54:15.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\ViewModels\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "MyToDo_\\ViewModels\\SettingsViewModel.cs",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\ViewModels\\SettingsViewModel.cs",
+              "RelativeToolTip": "MyToDo_\\ViewModels\\SettingsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:26:06.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TodoViewModel.cs",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\ViewModels\\TodoViewModel.cs",
+              "RelativeDocumentMoniker": "MyToDo_\\ViewModels\\TodoViewModel.cs",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\ViewModels\\TodoViewModel.cs",
+              "RelativeToolTip": "MyToDo_\\ViewModels\\TodoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:26:06.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodoView.xaml",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\TodoView.xaml",
+              "RelativeDocumentMoniker": "MyToDo_\\Views\\TodoView.xaml",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\TodoView.xaml",
+              "RelativeToolTip": "MyToDo_\\Views\\TodoView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T15:04:56.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MemoView.xaml.cs",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\MemoView.xaml.cs",
+              "RelativeDocumentMoniker": "MyToDo_\\Views\\MemoView.xaml.cs",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\MemoView.xaml.cs",
+              "RelativeToolTip": "MyToDo_\\Views\\MemoView.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:37:14.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\App.xaml",
+              "RelativeDocumentMoniker": "MyToDo_\\App.xaml",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\App.xaml",
+              "RelativeToolTip": "MyToDo_\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T16:19:30.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PrismApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\SourceServer\\ab2358ccce21eeb65a2ecd74efdb911b63acd2b9894de7136647359b28b88885\\PrismApplication.cs",
+              "ToolTip": "C:\\Users\\Administrator\\AppData\\Local\\SourceServer\\ab2358ccce21eeb65a2ecd74efdb911b63acd2b9894de7136647359b28b88885\\PrismApplication.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:37:04.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MemoView.xaml",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\MemoView.xaml",
+              "RelativeDocumentMoniker": "MyToDo_\\Views\\MemoView.xaml",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\MemoView.xaml",
+              "RelativeToolTip": "MyToDo_\\Views\\MemoView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T05:56:27.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SettingsView.xaml",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\SettingsView.xaml",
+              "RelativeDocumentMoniker": "MyToDo_\\Views\\SettingsView.xaml",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\Views\\SettingsView.xaml",
+              "RelativeToolTip": "MyToDo_\\Views\\SettingsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T05:56:23.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyToDo_.csproj",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\MyToDo_.csproj",
+              "RelativeDocumentMoniker": "MyToDo_\\MyToDo_.csproj",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\MyToDo_.csproj",
+              "RelativeToolTip": "MyToDo_\\MyToDo_.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T06:41:30.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MyToDo_\\AssemblyInfo.cs",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\AssemblyInfo.cs",
+              "RelativeToolTip": "MyToDo_\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:14:56.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MyToDo_\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\study\\developer\\code\\c#_new\\MyToDo\\MyToDo_\\MyToDo_\\MyToDo_\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MyToDo_\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvyIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:54:42.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
